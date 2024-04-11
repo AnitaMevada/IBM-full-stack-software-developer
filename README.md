@@ -36,8 +36,8 @@ This program is ACE® recommended, allowing you to earn up to 18 college credits
 
 ## Certificates
 
-1. [Introduction to Cloud Computing](https://coursera.org/share/438a8e16af4786782c8a739aef79e999)
-2. [Introduction to Web Development with HTML, CSS, JavaScript](https://coursera.org/share/20492cac6fc0dab8c96fa15c44044f87)
+1. [Introduction to Cloud Computing](https://coursera.org/share/2f51044fff88654089f83a896ba48066)
+2. [Introduction to Web Development with HTML, CSS, JavaScript](https://coursera.org/share/a5ade9ffd140f2a587bbfec348f20d8c)
 3. [Getting Started with Git and GitHub](https://coursera.org/share/01e159dc7ddc85cde0b35634c06b79a9)
 4. [Developing Front-End Apps with React](https://coursera.org/share/3b7b7f890c9a72d6e2a4d2247f1c4d77)
 5. [Developing Back-End Apps with Node.js and Express](https://coursera.org/share/b025f8ddca696d82e1b737480c82b769)
