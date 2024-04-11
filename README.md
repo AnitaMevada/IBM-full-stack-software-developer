@@ -57,7 +57,7 @@ This program is ACE® recommended, allowing you to earn up to 18 college credits
 
 [IBM Full Stack Software Developer](https://coursera.org/share/d3352bc5c9314c9951118a03cc5ce184)
 
-![IBM Full Stack Software Developer Certificate](./IBM%20Full%20Stack%20Software.PNG)
+![IBM Full Stack Software Developer Certificate](./IBM%20Full%20Stack%20Software.png)
 
 ### IBM Full Stack Software Developer Capstone
 
